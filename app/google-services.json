@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "262760047027",
+    "firebase_url": "https://curriculoapp-4ee08.firebaseio.com",
+    "project_id": "curriculoapp-4ee08",
+    "storage_bucket": "curriculoapp-4ee08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262760047027:android:7f28b667ae8096e1",
+        "android_client_info": {
+          "package_name": "barreto.alessandro.curriculo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262760047027-nfh9lll9bqsc3bemt0tok1ugprr0kma7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "barreto.alessandro.curriculo",
+            "certificate_hash": "A92FB9F992911C6DE4E13C912D7448A4F1D1C107"
+          }
+        },
+        {
+          "client_id": "262760047027-avog43sgvabf426rp3geh5q0cmmtt81e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrvA6rb-GgcnjjIdkgIaSWlyLVelQtwu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262760047027-avog43sgvabf426rp3geh5q0cmmtt81e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

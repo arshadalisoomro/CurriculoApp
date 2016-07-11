@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Curriculo</string>
+    <string name="nome">Alessandro Barreto</string>
+    <string name="sobre">Sobre</string>
+    <string name="habilidades">Habilidades</string>
+    <string name="projetos">Projetos</string>
+    <string name="experiencia">Experiência</string>
+
+
+    	<string name="lorem">
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+		In mollis est vitae erat laoreet consectetur. Mauris dui mauris,
+		dictum vel egestas vel, porta sed ante. Phasellus congue viverra ipsum,
+		in elementum arcu ultricies nec.Morbi tincidunt nisl lacinia, placerat nisi eget, luctus tortor.
+		Morbi efficitur dictum leo, sit amet volutpat lorem sodales nec. Quisque et erat et turpis fringilla condimentum.
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor vulputate libero vitae iaculis.
+		Curabitur id blandit quam. Praesent massa ante, pulvinar vitae sagittis commodo, scelerisque porttitor eros.
+		Mauris suscipit a enim nec congue. Mauris tristique cursus aliquet. Nunc quis hendrerit nunc. Praesent tristique tellus purus,
+		a pretium ex gravida id. Cras laoreet malesuada nulla, at bibendum metus ultricies a. Fusce eu ornare arcu. Proin ut molestie est.
+		Vestibulum quis vehicula erat. Nam sed tempus nibh. Sed tortor ante, maximus venenatis odio sed, ultricies maximus lectus.
+		Aliquam sed volutpat ligula. Integer bibendum, magna ac lacinia suscipit,
+		risus libero rutrum justo, sed tempus augue tellus eget est. Curabitur convallis augue nisl,
+		id efficitur urna posuere faucibus. Ut sed egestas nulla, eu finibus metus. Nunc a arcu ante.
+		Aenean ullamcorper dolor non condimentum congue. Aenean mauris nunc, pellentesque at placerat vitae,
+		aliquet quis orci. Curabitur maximus augue ut bibendum sagittis.
+	</string>
+    <string name="ola">Olá!</string>
+    <string name="ola_sub">Eu sou Alessandro Barreto, 19 anos, Desenvolvedor Android, Atualmente Manaus-AM, Brasil.</string>
+    <string name="ojetivo">Objetivo</string>
+    <string name="objetivo_texto">Desenvolver de forma eficiente aplicações mobile a favor de soluções coorporativas, cumprir com seriedade e responsabilidade as funções a mim designadas.</string>
+    <string name="educacao">Educação</string>
+    <string name="educacao_texto">CIESA - CENTRO UNIVERSITÁRIO DE ENSINO SUPERIOR DO AMAZONAS \nCursando 6° período 2016 CIÊNCIAS DA COMPUTAÇAO</string>
+    <string name="idioma">Idioma</string>
+    <string name="idioma_texto">Inglês [Leitura Avançada – Conversação Intermediaria ]</string>
+    <string name="competencia">Competências</string>
+    <string name="competencia_texto">Profissional dinâmico, criativo e fácil adequação para trabalho em equipe. Pratica em desenvolvimento na plataforma Androide com integrações a API ́s, conexões com servidores e persistências de dados.</string>
+    <string name="alertaProjetos">Projetos criado e publicados no GitHub para a comunidade.</string>
+    <string name="controle_versao">Controle de versão com Git</string>
+    <string name="ferramenta_git">Ferramentas: GitHub, SouceTree.</string>
+    <string name="materialDesign">Aplicações com conceito no Material Design Google</string>
+    <string name="arduino">Arduino</string>
+    <string name="bancoDados">Banco de Dados Relacional e Não Relacional</string>
+    <string name="tipos_bancos">MySQL, SQLite, Mongo</string>
+    <string name="java_androide">Java Androide</string>
+    <string name="linguagens_web">Linguagens voltadas a Web</string>
+    <string name="linguagens">PHP (Intermediário)\\nHTML5 (Básico)\\nCSS3 (Básico)\\nJavaScript (Básico)</string>
+    <string name="projeto1">Simple implementation of Drag and Drop in RecyclerView</string>
+    <string name="p1_watch">Watch 13</string>
+    <string name="p1_fork">Fork 67</string>
+    <string name="projeto2">Firebase Android Chat</string>
+    <string name="p2_watch">Watch 11</string>
+    <string name="p1_star">Star 494</string>
+    <string name="p2_star">Star 167</string>
+    <string name="p2_fork">Fork 31</string>
+    <string name="projeto3">Library to help developers it integrate (Google Sign-in) and (Facebook Sign-in)</string>
+    <string name="p3_watch">Watch 5</string>
+    <string name="p3_star">Star 52</string>
+    <string name="p3_fork">Fork 11</string>
+    <string name="experiencia_texto">[DESENVOLVEDOR ANDROIDE E SUPORTE E-MAILS, OPERA HOUSE INTERNET LTDA]\nAgosto de 2014 ate janeiro de 2016 Nesse tempo de trabalho aplicativos comerciais de pequenas escalas foram desenvolvidos por mim dentro da empresa.\n[SUPORTE TI, ATEM DISTRIBUIDORA DE PETRÓLEO E GÁS]\nJunho de 2012 ate junho de 2013 Prestava suporte técnico a e-mail, redes e computadores.</string>
+    <string name="contato">Contato</string>
+    <string name="gostou">Gostou do meu perfil?</string>
+    <string name="email">Email</string>
+    <string name="email_texto">alessandrobarreto50@gmail.com</string>
+    <string name="telefone">Telefone</string>
+    <string name="telefone_texto">(92)992139258</string>
+    <string name="endereco">Endereço</string>
+    <string name="endereco_texto">Rua:52, Quadra:138 Nº 6, CJ- Francisca Mendes II Cidade Nova II</string>
+    <string name="mandar_msg">Fique a vontade para me mandar uma Mensagem</string>
+    <string name="chat">Começar Chat</string>
+    <string name="enviar">Enviar</string>
+    <string name="hint_chat">Sua Mensagem</string>
+    <string name="dialog_titulo">Adicionar Nome</string>
+    <string name="dialog_mensagem">Preciso saber seu Nome</string>
+    <string name="botao_dialog_sim">Salvar</string>
+    <string name="botao_dialog_nao">Não</string>
+    <string name="campo_vazio">Campo Vazio</string>
+    <string name="nova_mensagem">Nova Mensagem</string>
+    <string name="mensagem_respondida">Mensagem Respondida</string>
+    <string name="dialog_load_titulo_contato">Criando Chat</string>
+    <string name="dialog_load_aguarde_contato">Carregando...</string>
+    <string name="dialog_carregando_msg">Mensagens</string>
+
+</resources>
